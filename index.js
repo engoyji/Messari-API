@@ -1,1 +1,1 @@
-module.exports = exports = Messari = require('./lib/Messari');
+module.exports = exports = require('./lib/Messari');
