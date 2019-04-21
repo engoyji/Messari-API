@@ -1,0 +1,32 @@
+{
+  "name": "messari-api",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for the Messari API with no dependencies.",
+  "main": "index.js",
+  "homepage": "https://github.com/miscavage/Messari-API#readme",
+  "author": "Mark Miscavage",
+  "license": "MIT",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miscavage/Messari-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miscavage/Messari-API/issues"
+  },
+  "keywords": [
+    "messari",
+    "onchainfx",
+    "crypto",
+    "cryptocurrency",
+    "api",
+    "api-wrapper",
+    "dependency-less",
+    "no-dependencies",
+    "nodejs",
+    "npm",
+    "javascript",
+    "api-client"
+  ]
+}
